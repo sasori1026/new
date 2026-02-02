@@ -1,0 +1,8 @@
+{
+  "name": "Cristaline Pro Manager",
+  "description": "Gestión integral de proyectos de impermeabilización por cristalización. Incluye calculadora de materiales, seguimiento de obras y asistente técnico IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
